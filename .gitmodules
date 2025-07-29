@@ -1,0 +1,39 @@
+[submodule "anthropic-proxy"]
+	path = anthropic-proxy
+	url = git@github.com:colinrozzi/anthropic-proxy.git
+[submodule "chat-interface"]
+	path = chat-interface
+	url = git@github.com:colinrozzi/chat-interface.git
+[submodule "chat-state"]
+	path = chat-state
+	url = git@github.com:colinrozzi/chat-state.git
+[submodule "claude-chat"]
+	path = claude-chat
+	url = git@github.com:colinrozzi/claude-chat.git
+[submodule "git-chat-assistant"]
+	path = git-chat-assistant
+	url = git@github.com:colinrozzi/git-chat-assistant.git
+[submodule "git-command-actor"]
+	path = git-command-actor
+	url = git@github.com:colinrozzi/git-command-actor.git
+[submodule "git-mcp-actor"]
+	path = git-mcp-actor
+	url = git@github.com:colinrozzi/git-mcp-actor.git
+[submodule "google-proxy"]
+	path = google-proxy
+	url = git@github.com:colinrozzi/google-proxy.git
+[submodule "greeting-actor"]
+	path = greeting-actor
+	url = git@github.com:colinrozzi/greeting-actor.git
+[submodule "hello-world"]
+	path = hello-world
+	url = git@github.com:colinrozzi/hello-world.git
+[submodule "moonshot-proxy"]
+	path = moonshot-proxy
+	url = git@github.com:colinrozzi/moonshot-proxy.git
+[submodule "task-manager"]
+	path = task-manager
+	url = git@github.com:colinrozzi/task-manager.git
+[submodule "task-monitor-mcp-actor"]
+	path = task-monitor-mcp-actor
+	url = git@github.com:colinrozzi/task-monitor-mcp-actor.git

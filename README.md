@@ -2,6 +2,10 @@
 
 A comprehensive collection of **WebAssembly actors** built for the Theater system, demonstrating advanced capabilities in distributed computing, AI integration, proxy services, and real-time applications.
 
+## 🌟 Overview
+
+This portfolio showcases expertise in building high-performance WebAssembly actors that leverage the Theater system for distributed computing. Each actor implements clean message-passing interfaces with robust error handling, security controls, and specialized functionality across diverse domains including AI services, development tooling, and web applications.
+
 ## 🎭 Featured Actors
 
 ### [Anthropic Proxy](./anthropic-proxy)
